@@ -1,3 +1,5 @@
+## Updated by Jeremy Hess for RepData Peer Assessment 1
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
